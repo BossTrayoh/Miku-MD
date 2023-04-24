@@ -1,3 +1,5 @@
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=HELLO!+MY+NAME+IS+BOSS+TRAYOH;CHECK+OUT+ON+MY+BiGgiS+BOT+)](https://git.io/typing-svg)
+
 const fs = require("fs")
 const chalk = require("chalk")
 
