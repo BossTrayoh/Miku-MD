@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=HELLO!+MY+Name+is+Miku+)](https://git.io/typing-svg)
-https://user-images.githubusercontent.com/96835724/202911067-fbebff62-1566-4120-bd37-08311166b70b.mp4 
+![images.jpeg](https://user-images.githubusercontent.com/131602069/234002483-fab64b48-36c4-4a44-bc2d-21ac9b9921d5.jpeg)
+
+
 
      
 <h1 align="center"> Miku Nakano ( Outdated )
