@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=HELLO!+MY+NAME+IS+BOSS+TRAYOH;CHECK+OUT+ON+MY+BiGgiS+BOT+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=HELLO!+MY+Name+is+Miku+)](https://git.io/typing-svg)
 https://user-images.githubusercontent.com/96835724/202911067-fbebff62-1566-4120-bd37-08311166b70b.mp4 
 
      
